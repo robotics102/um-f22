@@ -1,11 +1,10 @@
 title: ROB 102 @ UM F22
 description: University of Michigan offering of Robotics 102 in Fall 22
-# theme: just-the-docs
+theme: just-the-docs
 
 url: https://robotics102.github.io/um-f22
 baseurl: '' # the subpath of your site, e.g. /blog
 
-remote_theme: just-the-docs/just-the-docs@v0.5.4
 search_enabled: false
 
 # Aux links for the upper right navigation
