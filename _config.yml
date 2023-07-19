@@ -11,8 +11,9 @@ search_enabled: false
 
 # Aux links for the upper right navigation
 aux_links:
-  "ROB 102 Main Site": https://robotics102.github.io/
   "Slack": https://um-fa22-rob102.slack.com
+  "Replit": https://replit.com/team/robotics-102-f22
+  "ROB 102 Main Site": https://robotics102.github.io/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
