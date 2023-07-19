@@ -1,8 +1,28 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ROB 102 @ UM F22
+description: University of Michigan offering of Robotics 102 in Fall 22
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://robotics102.github.io/um-f22
+baseurl: '' # the subpath of your site, e.g. /blog
 
+search_enabled: false
+
+# Aux links for the upper right navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "ROB 102 Main Site": https://robotics102.github.io/
+  "Slack": https://um-fa22-rob102.slack.com
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# Collections for website data
+collections:
+  staff:
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: staff
+    values:
+      layout: staff
+      subpath: '/assets/images/staff/'
