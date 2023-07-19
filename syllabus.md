@@ -4,8 +4,10 @@ title: Syllabus
 nav_order: 3
 ---
 
-# Syllabus: ROB 102
+# Syllabus
 {: .no_toc }
+ROB 102, Fall 2022 at The University of Michigan
+{: .fs-6 .fw-300 }
 
 ## Table of contents
 {: .no_toc .text-delta }

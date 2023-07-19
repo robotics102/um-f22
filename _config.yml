@@ -5,6 +5,8 @@ theme: just-the-docs
 url: https://robotics102.github.io/um-f22
 baseurl: '' # the subpath of your site, e.g. /blog
 
+favicon_ico: "/assets/images/icon.png"
+
 search_enabled: false
 
 # Aux links for the upper right navigation
