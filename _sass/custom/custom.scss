@@ -1,3 +1,8 @@
+// External libs.
+@import "../fontawesome/scss/fontawesome.scss";
+@import "../fontawesome/scss/solid.scss";
+@import "../fontawesome/scss/brands.scss";
+
 // Import styles
 @import 'staff';
 @import 'schedule';
@@ -31,3 +36,109 @@
       // stylelint-enable function-name-case
     }
   }
+
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* TODO */
+ul.todo {
+  background: #FFCB0524;
+  border: solid 1px #FFCB05;
+  border-radius: 0.375em;
+  color: #2f3337;
+  list-style: none;
+  margin: 0;
+  padding: 1em 1em 1em 3em; }
+  ul.todo li {
+    text-decoration: none;
+    border-top: solid 1px #FFCB05;
+    margin: 1.2em 0 0 0;
+    padding: 1.2em 1em 0 1em;
+    position: relative; }
+    ul.todo li:before {
+      content: none;
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+      display: inline-block;
+      font-style: normal;
+      font-variant: normal;
+      text-rendering: auto;
+      line-height: 1;
+      text-transform: none !important;
+      font-family: 'Font Awesome 5 Free';
+      font-weight: 400; }
+    ul.todo li:before {
+      color: #3d4449;
+      display: inline-block;
+      font-size: 1.5em;
+      height: 1.125em;
+      left: 0;
+      line-height: 1.125em;
+      position: absolute;
+      text-align: center;
+      top: 1em;
+      width: 1.5em; }
+    ul.todo li:first-child {
+      border-top: 0;
+      margin-top: 0;
+      padding-top: 0; }
+      ul.todo li:first-child:before {
+        top: 0; }
+    ul.todo li a {
+      color: inherit; }
+    ul.todo li pre {
+        margin: 0.5em 0;
+      }
+
+/* HINT */
+ul.hint {
+  background: #e6ebed40;
+  border: solid 1px #d2d7d9bf;
+  border-radius: 0.375em;
+  color: #2f3337;
+  list-style: none;
+  margin: 0;
+  padding: 1em 1em 1em 3em; }
+  ul.hint li {
+    text-decoration: none;
+    border-top: solid 1px #d2d7d9bf;
+    margin: 1.2em 0 0 0;
+    padding: 1.2em 1em 0 1em;
+    position: relative; }
+    ul.hint li:before {
+      content: none;
+      -moz-osx-font-smoothing: grayscale;
+      -webkit-font-smoothing: antialiased;
+      display: inline-block;
+      font-style: normal;
+      font-variant: normal;
+      text-rendering: auto;
+      line-height: 1;
+      text-transform: none !important;
+      font-family: 'Font Awesome 5 Free';
+      font-weight: 400; }
+    ul.hint li:before {
+      color: #3d4449;
+      display: inline-block;
+      font-size: 1.5em;
+      height: 1.125em;
+      left: 0;
+      line-height: 1.125em;
+      position: absolute;
+      text-align: center;
+      top: 1em;
+      width: 1.5em; }
+    ul.hint li:first-child {
+      border-top: 0;
+      margin-top: 0;
+      padding-top: 0; }
+      ul.hint li:first-child:before {
+        top: 0; }
+    ul.hint li a {
+      color: inherit; }
+    ul.hint li pre {
+      margin: 0.5em 0;
+    }

@@ -16,6 +16,15 @@ This is the course page for the Fall 2023 offering of [Robotics 102: Introductio
 1. TOC
 {:toc}
 
+# Meeting Times
+
+<i class="fa-solid fa-chalkboard-user"></i> **Lectures:** Tues & Thurs 3-4:30 PM @ FRB 1060
+
+<i class="fa-solid fa-flask"></i> **Labs:**
+* F 10:30 AM-12:30 PM @ FRB 1060
+* F 12:30-2:30 PM @ FRB 1060
+* F 2:30-4:30 PM @ FRB 1060
+
 # Instructors
 
 <div class="staff-row">
