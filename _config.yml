@@ -13,7 +13,7 @@ search_enabled: false
 aux_links:
   "Slack": https://um-fa22-rob102.slack.com
   "Replit": https://replit.com/team/robotics-102-f22
-  "ROB 102 Main Site": https://robotics102.github.io/
+  "HelloRob Main Site": https://hellorob.org/
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
