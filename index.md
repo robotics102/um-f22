@@ -5,10 +5,10 @@ nav_order: 1
 ---
 # Introduction to AI and Programming
 {: .no_toc }
-ROB 102, Fall 2022 at The University of Michigan
+ROB 102, Fall 2022 at the University of Michigan
 {: .fs-6 .fw-300 }
 
-This is the course page for the Fall 2023 offering of [Robotics 102: Introduction to AI and Programming](https://robotics102.org) at the University of Michigan. This site contains information relevant to Michigan students.
+This is the course page for the Fall 2023 offering of [Robotics 102: Introduction to AI and Programming](https://hellorob.org) at the University of Michigan. This site contains information relevant to Michigan students.
 
 ## Table of contents
 {: .no_toc .text-delta }
